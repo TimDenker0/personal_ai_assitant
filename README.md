@@ -1,1 +1,1 @@
-# personal_ai_assitant
+# personal ai assitant
